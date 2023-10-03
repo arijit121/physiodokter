@@ -83,7 +83,17 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                         child: Row(
                           mainAxisSize: MainAxisSize.max,
                           mainAxisAlignment: MainAxisAlignment.center,
-                          children: [],
+                          children: [
+                            Align(
+                              alignment: AlignmentDirectional(-0.05, 0.00),
+                              child: Image.asset(
+                                'assets/images/Screen_Shot_2022-04-16_at_4.04.40_PM.png',
+                                width: 300.0,
+                                height: 130.0,
+                                fit: BoxFit.fitWidth,
+                              ),
+                            ),
+                          ],
                         ),
                       ),
                       Expanded(
