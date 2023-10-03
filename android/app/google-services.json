@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47605576785",
+    "project_id": "physiodoktor",
+    "storage_bucket": "physiodoktor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47605576785:android:4718610a6fe04d96fd7470",
+        "android_client_info": {
+          "package_name": "physiodoktor.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofx-W8508qnfrFL4gvxBc22Sd9e6KoW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
